@@ -4,3 +4,4 @@ NIRspline.Rproj
 .Rproj.user/*
 .Rdata
 .Rhistory
+.Rbuildignore
