@@ -2,3 +2,5 @@ NIRspline.Rproj
 .Rproj.user
 .Rproj.user*
 .Rproj.user/*
+.Rdata
+.Rhistory
